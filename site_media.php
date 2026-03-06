@@ -9,16 +9,16 @@ function getDefaultSiteMedia(): array
         'home_highlight_2' => 'https://images.unsplash.com/photo-1512820790803-83ca734da794?auto=format&fit=crop&w=1000&q=80',
         'home_highlight_3' => 'https://images.unsplash.com/photo-1446776811953-b23d57bd21aa?auto=format&fit=crop&w=1000&q=80',
         'home_highlight_4' => 'https://images.unsplash.com/photo-1508444845599-5c89863b1c44?auto=format&fit=crop&w=1000&q=80',
-        'projects_1' => 'https://images.unsplash.com/photo-1508614589041-895b88991e3e?auto=format&fit=crop&w=1200&q=80',
-        'projects_2' => 'https://images.unsplash.com/photo-1508444845599-5c89863b1c44?auto=format&fit=crop&w=1200&q=80',
-        'projects_3' => 'https://images.unsplash.com/photo-1473968512647-3e447244af8f?auto=format&fit=crop&w=1200&q=80',
-        'projects_4' => 'https://images.unsplash.com/photo-1469474968028-56623f02e42e?auto=format&fit=crop&w=1200&q=80',
-        'gallery_1' => 'https://images.unsplash.com/photo-1517976487492-576ea6b2936d?auto=format&fit=crop&w=1200&q=80',
-        'gallery_2' => 'https://images.unsplash.com/photo-1473091534298-04dcbce3278c?auto=format&fit=crop&w=1200&q=80',
-        'gallery_3' => 'https://images.unsplash.com/photo-1545239351-1141bd82e8a6?auto=format&fit=crop&w=1200&q=80',
-        'gallery_4' => 'https://images.unsplash.com/photo-1436491865332-7a61a109cc05?auto=format&fit=crop&w=1200&q=80',
-        'gallery_5' => 'https://images.unsplash.com/photo-1517423440428-a5a00ad493e8?auto=format&fit=crop&w=1200&q=80',
-        'gallery_6' => 'https://images.unsplash.com/photo-1451187580459-43490279c0fa?auto=format&fit=crop&w=1200&q=80',
+        'projects_1' => 'https://imgs.search.brave.com/hGagxjdNrU8qx3N9hp9wNsnDamG-PSRFS_BlMoCCwAE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ubW9zLmNtcy5mdXR1cmVjZG4ubmV0L1pO/cktTZ3EyZlM5dGV6cUo3M282Q1MuanBn',
+        'projects_2' => 'https://imgs.search.brave.com/X1CzBkUqU7E5QoCaIiqWcmgQrY_BeZ8rCJwhAtd8lZQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzc3LzYyLzA0/LzM2MF9GXzE3NzYy/MDQ4Ml8zZU9maHBR/VkhLM1lnenZVVG13/ZFZacmhrZ2plekFB/dC5qcGc'             
+        'projects_3' => 'https://imgs.search.brave.com/DbOtamDM9nSXXql2LH76OvzGC3ek9ZW9asry1KJJsgI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvOTU5MjQyMDI0L3Bob3Rv/L3RoZS1kcm9uZS1pbi1zdW5zZXQtc2t5LmpwZw',
+        'projects_4' => 'https://imgs.search.brave.com/x16PAq-RYMtMS2IHkMAtErNTkNG6BTNu0nr0zvkc4eI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5pc3RvY2twaG90by5jb20vaWQvNTM3MjY5NDA0L3Bob3Rv/L21hbi1vcGVyYXRpbmctb2YtZmx5aW5nLWRyb25lLXF1YWRyb2NvcHRlci1hdC1zdW5zZXQuanBn',
+        'gallery_1' => 'https://imgs.search.brave.com/oWuf9PObLkHDJyexud4QAcZxz6-mQi5A98jXp33jQmQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvMjE5MjE1Nzc2My9waG90by9nbGFzdG9uYnVyeS11bml0ZWQta2luZ2RvbS1hLWRqaS1taW5pLTMtcHJvLWRyb25lLWZsaWVzLWFib3ZlLXRoZS1ncm91bmQtb24tamFudWFyeS0yLTIwMjUuanBn',
+        'gallery_2' => 'https://imgs.search.brave.com/hGagxjdNrU8qx3N9hp9wNsnDamG-PSRFS_BlMoCCwAE/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9jZG4ubW9zLmNtcy5mdXR1cmVjZG4ubmV0L1pOcktTZ3EyZlM5dGV6cUo3M282Q1MuanBn',
+        'gallery_3' => 'https://imgs.search.brave.com/X1CzBkUqU7E5QoCaIiqWcmgQrY_BeZ8rCJwhAtd8lZQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly90My5m/dGNkbi5uZXQvanBn/LzAxLzc3LzYyLzA0/LzM2MF9GXzE3NzYyMDQ4Ml8zZU9maHBRVkhLM1lnenZVVG13ZFZacmhrZ2plekFBdC5qcGc',
+        'gallery_4' => 'https://imgs.search.brave.com/DbOtamDM9nSXXql2LH76OvzGC3ek9ZW9asry1KJJsgI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvOTU5MjQyMDI0L3Bob3RvL3RoZS1kcm9uZS1pbi1zdW5zZXQtc2t5LmpwZw',
+        'gallery_5' => 'https://imgs.search.brave.com/x16PAq-RYMtMS2IHkMAtErNTkNG6BTNu0nr0zvkc4eI/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5pc3RvY2twaG90by5jb20vaWQvNTM3MjY5NDA0L3Bob3RvL21hbi1vcGVyYXRpbmctb2YtZmx5aW5nLWRyb25lLXF1YWRyb2NvcHRlci1hdC1zdW5zZXQuanBn',
+        'gallery_6' => 'https://imgs.search.brave.com/oWuf9PObLkHDJyexud4QAcZxz6-mQi5A98jXp33jQmQ/rs:fit:860:0:0:0/g:ce/aHR0cHM6Ly9tZWRpYS5nZXR0eWltYWdlcy5jb20vaWQvMjE5MjE1Nzc2My9waG90by9nbGFzdG9uYnVyeS11bml0ZWQta2luZ2RvbS1hLWRqaS1taW5pLTMtcHJvLWRyb25lLWZsaWVzLWFib3ZlLXRoZS1ncm91bmQtb24tamFudWFyeS0yLTIwMjUuanBn',
         'team_hero' => 'https://images.unsplash.com/photo-1518770660439-4636190af475?auto=format&fit=crop&w=1200&q=80',
     ];
 }
@@ -50,4 +50,4 @@ function getSiteMediaMap(PDO $pdo): array
     }
 
     return $map;
-}
+} 
